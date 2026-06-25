@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "om76r.aternos.me:48970",
+    "ip": "om76r.aternos.me",
     "port": 48970,
     "version": "",
     "try-creative": false
